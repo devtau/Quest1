@@ -1,0 +1,756 @@
+================================================================================
+2023-06-11, 16:59:01
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:02
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:03
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:04
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:05
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:06
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:07
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:08
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:09
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:11
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:12
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:13
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:14
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:15
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:16
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:17
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:18
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:19
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:20
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:21
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:22
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:23
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:24
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:25
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:26
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:27
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:28
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:29
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:30
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:31
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:32
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:33
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:34
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:35
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:36
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:37
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:38
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:39
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:40
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:41
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:42
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:44
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:45
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:46
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-1:])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:47
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-3:-2])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:48
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-3:-2])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:49
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-3:-2])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 16:59:50
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 21, in game_controller
+    game()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 39, in game
+    room_1()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\room_1.py", line 20, in room_1
+    if jerome_controller.get_in(In.TELEFON_SOLVED.value) == Define.ACTIVATE.value or Game.operator_command == 102:
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\Jerome.py", line 103, in get_in
+    return int(self.recieve_result()[-3:-2])
+ValueError: invalid literal for int() with base 10: '\n'
+================================================================================
+2023-06-11, 17:10:13
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\app.py", line 237, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2\_app\game_controller.py", line 17, in game_controller
+    def game_controller():
+KeyboardInterrupt
+================================================================================
+2023-11-14, 13:24:31
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2_v2_zagordnii\_app\app.py", line 264, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2_v2_zagordnii\_app\game_controller.py", line 18, in game_controller
+    def game_controller():
+KeyboardInterrupt
+================================================================================
+2023-11-14, 13:24:32
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2_v2_zagordnii\_app\app.py", line 264, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2_v2_zagordnii\_app\game_controller.py", line 18, in game_controller
+    def game_controller():
+KeyboardInterrupt
+================================================================================
+2023-11-14, 13:24:33
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Mi\Documents\_sennaja_kvest2_v2_zagordnii\_app\app.py", line 264, in loop
+    game_controller()
+  File "C:\Users\Mi\Documents\_sennaja_kvest2_v2_zagordnii\_app\game_controller.py", line 18, in game_controller
+    def game_controller():
+KeyboardInterrupt
